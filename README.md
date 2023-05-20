@@ -1,7 +1,7 @@
 # timon-datasets
 
 Articles - https://www.kaggle.com/datasets/balabaskar/elon-musk-news-articles-corpora?resource=download \
-Elon Tweets - https://www.kaggle.com/datasets/marta99/elon-musks-tweets-dataset-2022?select=cleandata.csv \
+Tweets by Elon - https://www.kaggle.com/datasets/marta99/elon-musks-tweets-dataset-2022?select=cleandata.csv \
 Tesla Stock - https://www.kaggle.com/datasets/varpit94/tesla-stock-data-updated-till-28jun2021 \
 S&P - https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_index.csv \
-Tesla Tweets - https://www.kaggle.com/datasets/vishesh1412/twitter-dataset-tesla
+Tweets mentioning Tesla - https://www.kaggle.com/datasets/vishesh1412/twitter-dataset-tesla
